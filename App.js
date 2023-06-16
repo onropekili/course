@@ -11,6 +11,7 @@ export default function App() {
 }
 // cambios vidos 1
 // cambios vidos 1
+// cambios vidos 1
 const styles = StyleSheet.create({
   container: {
     flex: 1,
